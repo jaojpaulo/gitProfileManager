@@ -1,0 +1,4 @@
+* text=auto
+
+#All files will have LF as line ending
+* text eol=lf
