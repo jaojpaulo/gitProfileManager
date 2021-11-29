@@ -1,4 +1,4 @@
-# ![Git Icon](./resources/git_icon_130933.png) Switch Git User
+# Switch Git User
 
 ## Goal
 
