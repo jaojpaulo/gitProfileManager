@@ -1,4 +1,4 @@
-# Switch Git User
+# Git Profil Manager(gpm)
 
 ## Goal
 
